@@ -1,0 +1,19 @@
+body,html{
+font-family: Georgia, 'Times New Roman', Times, serif;
+height: 100%;
+width: 100vw;
+display: flex;
+justify-content: center;
+align-items: center;
+background: url(fondo.piper.png) center center;
+background-size: cover;
+}
+.contenedor{
+text-align: center;
+align-content: center;
+box-sizing: content-box;
+padding: 20px;
+background-color: hotpink;
+border-radius: 20px;
+margin-top: 50px;
+}
